@@ -8,13 +8,13 @@ V: 1 style=jianpu
 I: 清华民乐  二胡  
 
 
-%%jpwedgeyshift 1.8cm
+%%jpwedgeyshift -12
 %改变简谱中渐强符号的高度
 [V: 1]
 
-|!st!G2G, G|[D4G4]|[D4G4]!UPBOW!|(!st!E/G//A//)  G G, (D'/<B/)!!|[E4A4]!!!!|
-[E4A4] |!UPBOW!G(A/C'/)G2|(E/G//A//) G/G,/ A/C'/ C'/>d// !!|[C'4E'4]!!|[C'4E'4]!!|
-[E4G4]!!|[E4G4]|!HOLD!G,4|@4|@4|
+"引子 广阔浩瀚"|!@dd$f'MAESTRO'$s'40'$in$bn$unf!G2G, G|!sanpie![D4G4]|!sanpie![D4G4]!UPBOW!|(E/G//A//)  G G, (D'/<B3/4 )!!|!sanpie![E4A4]!!!!|
+!sanpie![E4A4] |!@dd$f'Maestro'$s'40'$in$bn$unf!G(A/C'/)G2|(E/G//A//) G/G,/ !@dd@y'-10'$f'宋体'$s'15'$in$bn$un渐慢!A/C'/ C'/>d// !!|!@dd$f'Maestro'$s'40'$in$bn$unff!!sanpie![c4e4]!!|!sanpie![c4e4]!!|
+!sanpie!!@dd@y'-10'$f'宋体'$s'15'$in$bn$unmf![E4G4]!!|[E4G4]|!HOLD!G,4|"此处两小节已删除"@4"(一)小溪：稍慢，舒缓的"|@4|
 [M:3/4][E//G//][E//G//][E//G//][E//G//] [E//G//][E//G//][E//G//][E//G//] [E//A//][E//A//][E//A//][E//A//]|
 [M:2/4][E//G//][E//G//][E//G//][E//G//] [E//G//][E//G//][E//G//][E//G//] |
 [E//A//][E//A//][E//A//][E//A//] [E//G//][E//G//][E//G//][E//G//]|
@@ -30,105 +30,105 @@ I: 清华民乐  二胡
 [M:3/4][E//A//][E//A//][E//A//][E//A//] [E//G//][E//G//][E//G//][E//G//] [E//G//][E//G//][E//G//][E//G//]|
 %25小节完
 [M:2/4][G//E//][E//G//][E//G//][E//G//] [E//G//][E//G//][E//G//][G//E//] |
-([G,2C2E2A2]|[G,2C2E2A2])|[C2E2G2C'2]|@2|
+([G,2C2E2A2]|[G,2C2E2A2])|[C2E2G2C'2]|"空14小节"@2|
 %30小节完
 
 @2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
 %空14小节
 
-[M:3/4](<(E/A/) G>G,/ <)|
-(>(C/D/) E2>)|(<(E/A/)  (G/A/)  (E/D/ )<)| (>(C/A,/) ({A}C3/2D/ )>)|(A,/C//D//) {C}A,/>G,/ G,!UPBOW!|
+[M:3/4](<(!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf!E/A/) G>G,/ <)|
+(>(C/D/) E2>)|(<(E/A/)  (G/A/)  (E/D/ )<)| (>(C/A,/) ({A}C3/2D/ )>)|(A,/C//D//) {C}A,/>G,/ !@dd$f'@Arial Unicode MS'$s'20'$in$bn$unp!G,!UPBOW!|
 
-G,2 z|@3|z z  z/!UPBOW!C/ |(<(D/E/) {E}D2<)|(<(C/A,/) {A}C2<)|
+G,2 z|@3|z z  z/!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmp!!UPBOW!C/ |(<(D/E/) {E}!@dd@x'20'$f'@Arial Unicode MS'$s'20'$in$bn$unmf!D2<)|(<(C/A,/) {A}C2<)|
 %54小节结束
 
-C3|C3|D3|C3|D3|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmp!C3|C3|D3|C3|D3|
 C3|D3|D3|D3|E3|
 
-[M:2/4][E//A//][D//G//][E//A//][E//A//] [D/G/][E/A] |
+[M:2/4]!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unf![A//E//][D//G//][E//A//][E//A//] [D/G/][E/A] |
 [D/A/][D//A//][E//B//] [GC']|[G2C'2]|
-!UPBOW![A//E//][D//G//][E//A//][E//A//] [D/G/][E/A] |
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmp!!UPBOW![A//E//][D//G//][E//A//][E//A//] [D/G/][E/A] |
 [D/A/][D//A//][E//B//] [GC']|[G2C'2]|
 %69小节结束
 
-@2|@2|@2|
-
-%江流  流畅的
+@2|@2|@2"(二)江流，流畅的"|
 
 
 
-%%begintext
-<二>江流，流畅的
-%%endtext
-(<(c3/2d)<)|(<(c3/4d/) (c//d//) (c//d// )<)|ee/(e//(>d// )|
+
+
+
+
+
+(<(c3/2d)<)|(<(c3/4d/) (c//d//) (c//d// )<)|!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unf!ee/(e//(>d// )|
 c2>)|
-(<(c3/2d)<)|(c/>d/) (<(c//d//) (c//d// )<)|ee/(e//(>d// )|
-c2>)|(A//c//A//G//) E/(D//E//)|G/>(G/ A/c/)|{E}G/ G D/|
+(<(c3/2d)<)|(c/>d/) (<(c//d//) (c//d// )<)|!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unf!ee/(e//(>d// )|
+c2>)|(!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf!A//c//A//G//) E/(D//E//)|G/>(G/ A/c/)|{E}G/ G D/|
 [M:3/4]G/z/ z z|zzz
 
- "pizz"|0 E z/ E z/|D z/ D z/ | 
+"pizz"| !@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf!Ez/ E z/|D z/ D z/  "arco"| 
 
 [M:2/4]!DOWNBOW!G(E/G/)|(A/c) d/|(A/>c/) (A/G/)|
 G/(G//A//) (D/E/)|(<(G3/2A/ )<)|(D/>E/) (G/A/)|(E>G)|(E/G/) (E//D//C//(>D// )|
 C2>)|
 %空12小节
-@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
+"以下空12小节"@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
 
-z/ ([E/G/][C/E/]) z/|([D/F/][A,/D/]) z/ ([C/E/]|[G,/C/])z/ z|z z|z z|
+z/ (!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf![G/E/][C/E/]) z/|([D/F/][A,/D/]) z/ ([C/E/]|[G,/C/])z/ z|z z|z z|
 %113小节结束
-(<(G,//A,//C//D//) (A,//C//D//E// )<)|[E2G2]|[^F2A2]|[_G2B2]|(>[A2G2]|
-(<[G2E2]>)|[A2^F2]<)|(<([_B2_G2]|(>[A2G2])<)|
+(<(G,//A,//C//D//) (A,//C//D//E// )<)|!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf![G2E2]|[^F2A2]|(<[_B2_G2]|[A2G2]<)|
+[G2E2]|[A2^F2]|(<([_B2_G2]|(>[A2G2])<)|
 %122小结束
 ([A//G//]>)[A//c//][G//A//][A//c//] [G//A//][A//c//][G//A//][A//c//])|
 ([E//G//][G//A//][E//G//][G//A//] [E//G//][G//A//][E//G//][G//A//])| 
 ([D//F//][F//G//][D//F//][F//G//] [D//F//][F//G//][D//F//][F//G//])|
 [M:3/4]
-!UPBOW!E/G/ (E//D//C/) C|A,/D/ (C//A,//G,/) G,|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unf!!UPBOW!E/G/ (E//D//C/) C|A,/D/ (C//A,//G,/) G,|
 
 [M:2/4]
-[E2G2]|[D2F2]|[C2E2]|[B,2D2]|C2|
-_E2|_A2|(<[B2_G2]|
+!sanpie![E2G2]|!sanpie![D2F2]|!sanpie![C2E2]|!sanpie![B,2D2]|!sanpie!C2|
+!sanpie!_E2|!sanpie!_A2|!sanpie!(<[B2_G2]|
 (!DOWNBOW![c//G//]<)[E//A//])([E//A//][G//c//]) ([G//c//][E//A//])([E//A//][G//c//])|
 ([G//c//][E//A//])([E//A//][G//c//]) ([G//c//][E//A//])([E//A//][G//c//])|
-[E2G2]|[F2B2]|[EG][CF]|[CE][_B,E]|[E2G2]|[E2G2]|
-[EG][DF]|[CE][B_B]|
+!sanpie![E2G2]|!sanpie![F2B2]|!sanpie![EG]!sanpie![CF]|!sanpie![CE]!sanpie![_B,E]|!sanpie![E2G2]|!sanpie![E2G2]|
+!sanpie![EG]!sanpie![DF]|!sanpie![CE]!sanpie![EB]|
 %145小节结束
 [E2G2]|[E2G2]|
 [E//A//][D//G//][E//A//][E//A//] [D/G/][E/A/]|
-[D/G/][D//G//][E//A//] [Gc]|([G2c2]|[G2c2]) [E//A//][D//G//][E//A//][E//A//]|
-[G2c2]|
+[D/G/][D//G//][E//A//] [Gc]|(!sanpie![G2c2]|!sanpie![G2c2]) [E//A//][D//G//][E//A//][E//A//]|
+!sanpie![G2c2]|
 %152小节结束
 
-[Gc][FA]|
-([G2A2]|
-[GA]) [E//A//][D//G//][E//A//][E//A//]|
-[G2c2]|
-[E//A//][D//G//][E//A//][E//A//]  [Gc]|
-[E//A//][D//G//][E//A//][E//A//]  [EA]|
-[E//A//][D//G//][E//A//][E//A//]  [GB]|
+!sanpie![Gc]!sanpie![FA]|
+(!sanpie![G2A2]|
+!sanpie![GA]) [E//A//][D//G//][E//A//][E//A//]|
+!sanpie![G2c2]|
+[E//A//][D//G//][E//A//][E//A//]  "一"[Gc]|
+[E//A//][D//G//][E//A//][E//A//]  "一"[EA]|
+[E//A//][D//G//][E//A//][E//A//]  "一"[GB]|
 %159小节结束
 
-%<三>峡滩
+"<三>峡滩"
 (3E//G//E//  z/  (3E//G//E// z/ |(3E//G//E// z/ (3E//G//E// z/ |(3E//G//E// z/ (3E//G//E// z/ |(3E//G//E// z/ (3E//G//E// z/ |
 %163小节结束
 
 %以下1=E
 [K:E]
-[E2G2]|[G2c2]|[B2d2]|[B2d2]|
-[M:3/4]{E}G/z/ {E}G/z/ {E}G/z/|(<{E}G/z/ {E}G/z/ {E}G/<)z/|{E}G/z/ {E}G/z/ {E}G/z/|{E}G/z/ {E}G/z/ {E}G/z/|
+!sanpie![E2G2]|!sanpie![G2c2]|!sanpie![B2d2]|!sanpie![B2d2]|
+[M:3/4]{E}G/z/ {E}G/z/ {E}G/z/|(<{E}G/z/ {E}G/z/ {E}G/<)z/|{E}!@dd$f'MAESTRO'$s'40'$in$bn$unf!G/z/ {E}G/z/ {E}G/z/|(<{E}G/z/ {E}G/z/ {E}G/<)z/|
 
-[E/G/]z/ [E/G/]z/ z/[E/G/]|[E/G/]z/ [E/G/]z/ z/[E/G/]|[E/G/]z/ [E/G/]z/ z/[E/G/]|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmp![G/E/]z/ [E/G/]z/ z/[E/G/]|[E/G/]z/ [E/G/]z/ z/[E/G/]|[E/G/]z/ [E/G/]z/ z/[E/G/]|
 %174小节结束
 
-[EG] [E/G/][E/G/] [EG]|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf![GE][E/G/][E/G/] [EG]|
 [F/A/]z/ [F/A/]z/ z/[C/F/]|
 [E/G/]z/ [E/G/]z/ z/[C/E/]|
 [E/G/]z/ [E/G/]z/ z/[C/E/]|
-[Gc] [G/c/][G/c/] [Gc]|
-[A/c/][A/c/]  [A/c/][A/c/]  [A/c/][A/c/]  |
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf![cG][G/c/][G/c/] [Gc]|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unf![A/c/][A/c/]  [A/c/][A/c/]  [A/c/][A/c/]  |
 [c/e/][c/e/]  [c/d/][c/d/]  [A/c/][A/c/]  |
 [^F/A/][^F/A/]  [^F/A/][^F/A/]  [^F/A/][^F/A/]|
-[A/c/][A/c/]  [G/A/][G/A/]  [E/G/][E/G/]  |
+(<[A/c/][A/c/]  [G/A/][G/A/]  [E/G/][G/E/] <)|
 [c/d/][c/d/]  [c/d/][c/d/]  [c/d/][c/d/]  |
 [c/e/][c/e]  [c/d/][c/d] [A/c/][A/c] |
 [^F/A/][^F/A/]  [^F/A/][^F/A/]  [^F/A/][^F/A/]|
@@ -142,21 +142,21 @@ _E2|_A2|(<[B2_G2]|
 
 C (3E/E/E/ C|
 C (3E/E/E/ C|
-@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|
+"以下空13小节"@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|@3|
 %空13小节
 
-[E3G3]|[E3G3]|
-[G3_B3]|[G3_B3]|[G3_B3]|[G3_B3]|[G3_B3]|
+!sanpie![E3G3]|!sanpie![E3G3]|
+!sanpie![G3_B3]|!sanpie![G3_B3]|!sanpie![G3_B3]|!sanpie![G3_B3]|!sanpie![G3_B3]|
 [M:2/4]
-[_B2_d2]|[_B2_d2]|
-[_G2_B2]|[_G2_B2]|
+!sanpie![_B2_d2]|!sanpie![_B2_d2]|
+!sanpie![_G2_B2]|!sanpie![_G2_B2]|
 %216小节结束
 
 [K:C]
 (3d/d/d/ (3g/g/g/ (3f/f/f/|(3d/d/d/ (3g/g/g/ (3f/f/f/|
 
 ([ce][Bd])([ce]|[Bd])([ce][Bd])|
-[ce][_B_d][ce]|[_Bd][ce][_Bd]|
+[ce][_Bd][ce]|[_Bd][ce][_Bd]|
 
 [K:C]
 [G/c/][G/c/] [_A/c/] [_A3/2c3/2]|
@@ -179,21 +179,21 @@ C (3E/E/E/ C|
 [F/B/][G/B/] [E/G/] [E3/2G3/2]|
 [G/B/][G/B/] [E/G/] [E3/2G3/2]|
 
+(3!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf!F/G/F/ (3c/A/G/ (3A/G/A/|
 (3F/G/F/ (3c/A/G/ (3A/G/A/|
+A/>d/ c/>A/ c|
+G/>c/ A/>G/ A|
+(3!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf!F/G/F/ (3c/A/G/ (3A/G/A/|
 (3F/G/F/ (3c/A/G/ (3A/G/A/|
 A/>d/ c/>A/ c|
 G/>c/ A/>G/ A|
 (3F/G/F/ (3c/A/G/ (3A/G/A/|
 (3F/G/F/ (3c/A/G/ (3A/G/A/|
-A/>d/ c/>A/ c|
-G/>c/ A/>G/ A|
 (3F/G/F/ (3c/A/G/ (3A/G/A/|
-(3F/G/F/ (3c/A/G/ (3A/G/A/|
-(3F/G/F/ (3c/A/G/ (3A/G/A/|
-(3G/A/G/ (3d/B/A/ (3B/A/B/|
+(<(3G/A/G/ (3d/B/A/ (3B/A/B/ <)|
 %249小节结束
 (3g/e/d/ (3e/d/e/ (3d/c/A/|
-(3c/A/c/ (3A/G/A/ (3G/E/G/|
+(>(3c/A/c/ (3A/G/A/ (3G/E/G/ >)|
 
 
 e/>(d/e/) z/ z |e/>(d/e/) z/ z |
@@ -204,15 +204,15 @@ e/>(d/e/) z/ z |e/>(d/e/) z/ z |
 
 [M:2/4]
 (G/^F//)z// (G/^F//)z//|(G/^F//)z// (G/^F//)z//|
-[d2g2]|[d2g2]|
-[B2d2]|[B2d2]|
-[_B2d2]|
-[_G2B2]|
-[B2d2]|[B2d2]|
-[B2d2]|[B2d2]|
-D/z/ z|
-(<[d^c][_c^G]<)|D/z/ z|
-[^cd][^G_c]|D/z/ z|[^cd][^G_c]|
+!sanpie![d2g2]|!sanpie![d2g2]|
+!sanpie![B2d2]|!sanpie![B2d2]|
+!sanpie![_B2d2]|
+!sanpie![_G2B2]|
+!sanpie![B2d2]|!sanpie![B2d2]|
+!sanpie![B2d2]|!sanpie![B2d2]|
+D/z/ !HOLD!z|
+(<!sanpie![d^c]!sanpie![_c^G]<)|D/z/ !HOLD!z|
+!sanpie![^cd]!sanpie![^G_c]|D/z/ !HOLD!z|!sanpie![^cd]!sanpie![^G_c]"大河 宽广，缓和"|
 
 
 [K:G]
@@ -224,33 +224,33 @@ D/z/ z|
 (6G,A,G,CDE (6GAGEDC|(6G,A,G,CDE (6GAGEDC|(6G,A,G,CDE (6GAGEDC|(6G,A,G,CDE (6GAGEDC|
 %294小节结束
 [L:1/4]
-[G,2C2]|[E2G2]|[G,2C2]|[E2G2]|(>[C2A,2]|[G2E2]>)|@2|@2|@2|@2|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmf![C2G,2]|[E2G2]|!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unmp![C2G,2]|[E2G2]|(>[C2A,2]|[G2E2]>)|"空4小节"@2|@2|@2|@2|
 
-(<(c3/4d/) (c//d//c//d// )<)|e/(e//d//) c|
-(A//c//A//G//) (E/D//E//)|G/>(G/ A/c/)|G2|
+(<(!@dd@x'-10'$f'@Arial Unicode MS'$s'20'$in$bn$unmp!c3/4d/) (c//d//c//d// )<)|e/(e//d//) c|
+(A//c//A//G//) (E/D//E//)|!UPBOW!G3/4(G/ A/c/)|G2|
 
-[M=3/4]
+[M:3/4]
 @3|@3|@3|
-[M=2/4]
+[M:2/4]
 %空21小节
-@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
+"空21小节"@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
 @2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
 
-D G|F (D/C/)|
+!@dd@x'-10'$f'@Arial Unicode MS'$s'20'$in$bn$unf!DG|F (D/C/)|
 (_B,>G,)|
-(_B,C) (DF)|
-[G2c2]|[G2c2]|
-[E2G2]|[E2G2]|
-[G2c2]|[G2c2]|
-[E2G2]|[E2G2]|
-[B2c2]|[B2c2]|
-E A|G (E/>D/)|C A|G (E/>D/)|
-E A|G (E/>D/)|C A|G (E/>D/)|
-E A|G (E/>D/)|C A|G (c/>d/)|
-[c2e2]|[c2e2]|([A2c2]|[A2c2])|
-[D2G2]|
+(<(_B/C/) (D/F/ )<)|
+!sanpie![G2c2]|!sanpie![G2c2]|
+!sanpie![E2G2]|!sanpie![E2G2]|
+!sanpie![G2c2]|!sanpie![G2c2]|
+!sanpie![E2G2]|!sanpie![E2G2]|
+!sanpie![B2c2]|!sanpie![B2c2]|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unf!EA|G (E/>D/)|C A|G (E/>D/)|:
+
+EA|G (E/>D/)|C A|1G (E/>D/)"   2":|0]1G (c/>d/)
+[c2e2]|[c2e2]|([A2c2]|[A2c2])!HOLD!|
+!@dd$f'@Arial Unicode MS'$s'20'$in$bn$unp![G2D2]|
 ([G2A2]|[G2A2])|
-[c2e2]|]
+!HOLD!(>[c2e2]|]@//>)
 
 
 
