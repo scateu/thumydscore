@@ -5,7 +5,8 @@ S: 清华民乐
 L: 1/4
 K: G
 V: 1 style=jianpu
-I: 清华民乐  二胡  
+I: 清华民乐  二胡
+M: 2/4
 
 
 %%jpwedgeyshift -12
@@ -237,7 +238,8 @@ D/z/ !HOLD!z|
 "空21小节"@2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
 @2|@2|@2|@2|@2|@2|@2|@2|@2|@2|
 
-!@dd@x'-10'$f'@Arial Unicode MS'$s'20'$in$bn$unf!DG|F (D/C/)|
+%以下为334小节
+D!@dd$f'MAESTRO'$s'40'$in$bn$unf!D|F (D/C/)|
 (_B,>G,)|
 (<(_B/C/) (D/F/ )<)|
 !sanpie![G2c2]|!sanpie![G2c2]|
