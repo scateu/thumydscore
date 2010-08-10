@@ -1,0 +1,53 @@
+%MUSE2
+T: ÈýÁù
+M: 2/4
+L: 1/4
+K: D
+V: 1 style=jianpu
+[V: 1]A2|d2|zC|zC|[L: 1/8]zC zD |zC zD| z[C,G,c,] z[D,A,d,] | z[C,G,c,] z[D,A,d,] | [C,G,c,]z z2 |
+[L:1/4] C G| c G | E C | A, z| F D | E G | [L:1/8]  AG ED | C2 z2| !ATT!E>E EG| AA AZ |
+C2 zE|DC A,G,|A,z ZA|EG CA,|C2 z2 | E2 Z2 | E2 DA,| ZC G,2| 
+G2 [C,2G,2c,2] | Z[C,G,c,] Z[C,G,c,] | [C,G,c,]Z Z2 | [C,G,c,]Z Z2|
+
+cc AA|GG EE|AA GG|EE CC|GG EE|CC A,A,|EE DD|CC G,G,|
+A,[A,EA] [A,EA]G/2A/2|B4|A3 G|E3 G|A4| B4|A3 G|E3 G|A4| 
+B4 | A3 G | E2 c2 | GE D2 | (E4|E2) (G2|G2) ED| C4|A2 cB| AA Az |
+
+[L:1/4] E C | D G,| G D | C G,| C G | E C | E G | c G | Z [G,CG] |
+[L:1/8] Z[G,CG] Z[G,CG] | [G,CG]Z Z2 | [G,CG]Z Z2 |
+% 71
+CZ Z2 | ZC GE | DD DD | B,Z ZA, | G,E, G,A, | CZ Z2 | ZE DC | A,C E,G, | A,A, Z2 |
+Z2 Z2 | Z2 ZG/2G/2| CE DB, | A,G, A,2 | CZ Z2 | cA GA | ED CG, | AZ Z2 |
+% 88
+E4 | !ATT!A,Z Z2 | !ATT!EZ Z!ATT!E | Z!ATT!E !ATT!A,Z |
+B,B,/2B,/2 B,B, | A,B,/2B,/2 A,G, | ED EG | AG AZ |
+Z2 C2 | ZC ZD | E2 Z2 | Z2 C2 | ZC ZD | EE ZD | E2 Z2 | A2 G2 | E2 C2 | GG EE | CC G,G, |
+[L:1/4] C C | A, A, | C A, | C G, | D G, | G, G, | C G, | E G, | G G, | E G, | C C |
+[L:1/8] Z2 C2 | ZC ZC | CZ Z2 | CZ Z2 |
+
+
+
+% Page 2
+[L:1/4] c A| G E| A G | E C| G E | C A,| E D| C G,| 
+[L:1/8] A,[A,EA] [A,EA]G/2A/2|B4|A3 G|E3 G|A4| B4|A3 G|E3 G|A4|
+B4 | A3 G | E2 c2 | GE D2 | (E4| E2) (G2 | G2) ED | C4 | A2 cB | AA Az 
+% 149
+|:!ATT!C!ATT!C z2| z2 z!ATT!D | !ATT!Dz z2 | z2 zG | C !ATT!C2 D| C2 z2 |
+AZ ZE | ZG GA | c !ATT!C2 D | C2 Z2|A2 ZE| ZG GA | G2 Z2| Z2 Z2 |
+G2 D2 | E2 C2 | DD DD | Dz Z2 | ZG, A,C | ZA, DE | CZ Z2 | Z2 Z2 :|
+% 171
+C2 ZE | DC A,G, | A,Z ZA | EG CA, | C2 G2 | E2 D2 | C2 DA, | ZC G,2 |
+Z2 [G,2C2G2] | Z[G,CG] Z[G,CG] | [G,CG]Z Z2 | [G,CG]Z Z2 |
+% 183
+cc AA|GG EE|AA GG|EE CC|GG EE|CC A,A,|EE DD|CC G,G,| A,Z Z2 |
+[M: 3/4]
+Ac GF ED/2E/2 | GC ZD E2 | Ac GF ED/2E/2 | GC ZD ED | CC ZD ED |
+[M: 2/4]CC ZD |
+[L: 1/4] !ATT!E !ATT!A | !ATT!G !ATT!F | !HOLD!E2 |]
+
+%ff !@dd@x'-15'@y'10'$f'MAESTRO'$s'40'$in$bn$un\196!
+%f
+%mf
+%mp
+%p
+%pp
