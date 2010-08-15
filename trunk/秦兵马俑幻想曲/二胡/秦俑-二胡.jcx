@@ -1,0 +1,109 @@
+%MUSE2
+T: 秦兵马俑幻想曲
+C: 彭修文
+I: （一）军整肃，封禅邀游几时休
+L: 1/4
+K: F
+V: 1 style=jianpu
+
+%%jpwedgeyshift -20
+
+[V: 1]
+|"不快地进行"
+[M: 4/4]@4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 |
+@4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 | @4 |
+"空29小节"@4 |
+!@dd$f'MAESTRO'$s'40'\070!!sanpie!A!sanpie!B !sanpie!C !sanpie!D | !@dd$f'MAESTRO'$s'40'\080!!sanpie![EC] (< !sanpie![DG] !sanpie![CE] !sanpie![EA] |
+!sanpie![EA] !sanpie![GC'] !sanpie![EA] !sanpie![AC'] <)|
+
+!@dd$f'MAESTRO'$s'40'$in$bn$un\196!"沉住气，有弹性地"[A//E//] [E/4A/4][E/2A/2] !st![A/E/]-!st![A/E/] [E/4A/4][E/4A/4][E/2A/2] !st![A/E/]!st![A/E/] |
+!@dd$f'MAESTRO'$s'40'$in$bn$un\080![A//E//] [E/4A/4](<[A/E/] [E/4A/4][E/4A/4][E/2A/2] [E/4A/4][E/4A/4][E/2A/2] [E/4A/4][E/4A/4][A/E/] <)|
+!@dd$f'MAESTRO'$s'40'$in$bn$un\196!!ATT!E//!@dd$f'MAESTRO'$s'40'\080!E//[E/2] [E/2][E/2] [E/4][E/4][E/2] [E/2][E/2]|
+!@dd$f'MAESTRO'$s'40'\070!!ATT!E//[E/4][G/2] !@dd$f'MAESTRO'$s'40'\112!E/[D/2] !ATT!E//[E/4][G/2] [E/2][D/2]|
+
+!@dd$f'MAESTRO'$s'40'\080!E//[E/4][E/2] [E/2][E/2] [E/4][E/4][E/2] [E/2][E/2]|
+!@dd$f'MAESTRO'$s'40'\070![A//E//][E/4A/4][G/2C'/2] [E/2A/2][D/2G/2] [E/4A/4][E/4A/4][G/2C'/2] [E/2A/2][D/2G/2]|
+[C/4E/4][C/4E/4][C/2E/2] [C/2E/2][C/2E/2] [E/4G/4][E/4G/4][E/2G/2] [E/2G/2][E/2G/2]|
+[^F/4A/4][^F/4A/4][^F/2A/2] [^F/2A/2][^F/2A/2] [^F/4A/4][^F/4A/4][^F/2A/2] [^F/2A/2][^F/2A/2]|
+
+[E/4A/4][E/4A/4][E/2A/2] [E/4A/4][E/4A/4][E/2A/2] [C/4E/4][C/4E/4][C/2E/2] [B,/4D/4][B,/4D/4][B,/2D/2]|
+!@dd$f'MAESTRO'$s'40'f!"放开"E//[E/4][E/2] [E/2][E/2] [E/4][E/4][E/2] [E/2][E/2]|
+[E/4][E/4][G/2] [E/2][D/2] [E/4][E/4][G/2] [E/2][D/2]|
+[E/4A/4][E/4A/4][E/2A/2] [E/2A/2][E/2A/2] [G/4B/4][G/4B/4][G/2B/2] [G/2B/2][G/2B/2]|
+
+[A/4][A/4][C'/2] [A/2][G/2] [A/4][A/4][C'/2] [A/2][G/2]|
+!@dd$f'MAESTRO'$s'40'\112!z/ E/4-G/4  (A/4 G/4 E/4 D/4)  Z/2 G/4-A/4  (C'/4 A/4 G/4 E/4)|
+z/2 (<(A//B/4)  (D'/4 B/4 A/4 ^F/4)  Z/2 D'/4-E'/4  (^F'/4 E/4 D/4 B// )<)|
+!@dd$f'MAESTRO'$s'40'f!e// ^C'/4 B/2  C'/4 B/4 A/2  B/4 A/4 ^F/2  A/4 F/4 E/2|
+
+!@dd$f'MAESTRO'$s'40'\196!D//D//D/ D/ D/  D//D//D/ D/ D/|
+^C//^C//^C/ ^C/ ^C/  ^C//^C//^C/ ^C/ ^C/|
+!@dd$f'MAESTRO'$s'40'\070!B,//B,// (< B,/ B,//B,//B,/ B,//B,//B,/ B,//B,//B,/ <)|
+!@dd$f'MAESTRO'$s'40'f!A,//A,//A,/ A,/ A,/  C//C//C/ C/ C/|
+
+(> A//A//A/ G//G//G/ E//E//E/ C//C//C/ >) | !sanpie!A,4| !sanpie!A,4| !sanpie!A,4|
+
+!sanpie!A,4| !sanpie!A,4| !@dd$f'MAESTRO'$s'40'\070!"拉出来"z/A//G// E//E//z/  z/G//E// D//D//z/|
+(!@dd$f'MAESTRO'$s'40'\080!"弱起渐强夸张"E//D// (< C//A,//) (G//E//C//A,//) (E//D//C//A,//) (G//E//C//A,//) <)|
+
+C/z/ z3 | z4 | (<!DOWNBOW!"圆滑，弱进"A3 G/-B/ <) | (> A4 >) "似断非断"|
+(< D2  "三"E A <) | (> D4 >) | C3/2-D/  "三"E E | !@dd$f'MAESTRO'$s'40'\070!D A A/-G/  "三"E|
+!@dd$f'MAESTRO'$s'40'\070!D C3/2-D/ ^F| !UPBOW!E4 | !@dd$f'MAESTRO'$s'40'f!!DOWNBOW!A3G/-B/ |  A4 |
+D2  "三"E A | D4 | C3/2-D/  "三"E E | !@dd$f'MAESTRO'$s'40'\070!D A A/-G/  "三"E|
+!@dd$f'MAESTRO'$s'40'\070!D2 E/-D/ C| !UPBOW!A,4 | @4 | @4 |
+
+"宀"E-A G A | (< B4 <)| !@dd$f'MAESTRO'$s'40'f!!ATT!e2!ATT!d2|    "三"D'/--"二"C'/    "二"A3 |
+
+z !ATT![G2E2][EG] | [CE] [C3E3] | "含糊到明确"!sanpie!B, !sanpie!D !sanpie!E !sanpie!G | !sanpie!B, !sanpie!D !sanpie!E !sanpie!G |
+
+!sanpie!E "一"!sanpie!G "一"!sanpie!A !sanpie!c |(< "开始起"!sanpie!B !sanpie!d !sanpie!A !sanpie!B <)|
+!@dd$f'MAESTRO'$s'40'\070!!UPBOW!cA2-G | A G2--"三"E |
+
+D  "三"E2-C | (>A,4>) |  "渐快"@4 | @4 |
+@4 | @4 | @4 |[K: D]"小快板，紧张地"!@dd$f'MAESTRO'$s'40'$in$bn$unfp!!sanpie![_E4^F4]|
+
+!sanpie![_E4^F4] | !sanpie![_E4^F4] | !sanpie![_E4^F4] | !sanpie![E4G4] |
+
+!sanpie![D4^F4] | !sanpie![^C4E4] | !sanpie![^C4E4] | !sanpie![D4^F4] |
+
+!sanpie![E4G4] | !sanpie![E4G4] | !sanpie![^F2A2] !sanpie![=F2A2] | "按2/2打拍，威武雄壮地"!sanpie![D4A4] |
+
+!sanpie![D4A4] | @4 | @4 | @4 |
+@4 | @4 | @4 | "宀"!@dd$f'MAESTRO'$s'40'$in$bn$unf!GG2 D |
+
+E E2 E | G A G D | E E A/G/E/D/ | A A2 A |
+E G E D| G G2 E | G G G/E/D/C/ | D D2 D |
+F "四"G F D| F F2 F | G _B G F | E E2 G |
+(>A c A G>)| @4 | @4 | @4 |
+@4 | @4 | @4 | @4 |
+@4 | @4 | @4 | @4 |
+
+"空9小节"@4 | C C D F | C4 | C C D F |
+C4 | !sanpie![B4d4] | !sanpie![G4c4] | !sanpie!"渐慢"[B4d4] |
+
+!HOLD!!sanpie![G4c4]  "慢起渐快"| (<!@dd$f'MAESTRO'$s'40'$in$bn$un\130!!sanpie!E!sanpie!D !sanpie!E !sanpie!G <) |
+!sanpie!E !sanpie!D !sanpie!C !sanpie!D | (< !sanpie!_E !sanpie!F !sanpie!G !sanpie!E <) |
+
+!sanpie!F !sanpie!_E !sanpie!C !sanpie!G | !@dd$f'MAESTRO'$s'40'\080!!sanpie!_G (< !sanpie!_A !sanpie!_B !sanpie!G <)|
+!sanpie!_A !sanpie!_G !sanpie!_E !sanpie!_D |(< !sanpie!"压音量，逐渐加强"[_G2_d2] !sanpie![G2_B2] |
+
+!sanpie![F2_A2] !sanpie![G2_B2] <) | !@dd$f'MAESTRO'$s'40'f!!sanpie![G4c4] | !sanpie![G4c4] | !sanpie![G4c4] |
+
+!sanpie![G4c4] | !sanpie![G4_B4] | !sanpie![G4_B4] | "加速"[_B/d/][_B/d/][_B/d/][_B/d/][_B/d/][_B/d/][_B/d/][_B/d/] |
+
+"四"[d/g/][d/g/][d/g/][d/g/][d/g/][d/g/][d/g/][d/g/] |  [K: F]!@dd$f'MAESTRO'$s'40'\196![Ac]z/[G/B/] [Ac] z/A,/ | D E/A/ D z |  [Ac] z/[G/B/] [Ac] z/A,/ |
+
+D E/A/ D z | "三"!@dd$f'MAESTRO'$s'40'\112!E/E/E/E/  "四"F/F/E/E/  "断奏，点"| G/A/C/E/ E/G/A,/C | E/E/E/E/ F/F/E/E/ |
+
+G/A/C/E/ E/G/A,/C | "长弓"!@dd$f'MAESTRO'$s'40'f![EC] "分弓"[B,/D/][B,/D/] [CE] z/[A,/C/] |
+[CE] [B,/D/][B,/D/] [CE] z/[A,/C/] | (!@dd$f'MAESTRO'$s'40'\070!E//G//E/) (A//c//A/) (d//e//d/) ("二"e//"四"g//e/) |
+
+(< (E//G//E/) (A//c//A/) (d//e//d/) (e//g//e/) <) |
+("四"!@dd$f'MAESTRO'$s'40'f!g//"二"e//"一"d/) ("二"e//"一"d//"二"B/) ("四"d//"二"B//"一"A/) ("三"B//"二"A//"一"G/) |
+("四"G//"二"E//"一"D/) ("二"E//"一"D//"一"B,/) ("三"D//"一"B,//"宀"A,/) z | !@dd$f'MAESTRO'$s'40'f!!sanpie!E4 |
+
+!sanpie!E4 | "此时乐队强烈处抓紧加弱音器"@4 | @4 | "空5小节"@4 |
+@4 | @4 | @4 | @4 |
+
+"逐渐地慢、弱"@4 | z4 | @4 | "空5小节"@4 |
+@4 | @4 | @4 | @4
