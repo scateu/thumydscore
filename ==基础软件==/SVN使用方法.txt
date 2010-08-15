@@ -4,7 +4,7 @@ xxxxxxx@gmail.com
 SVN账号是
 xxxxxx
 蜜蚂是xxxxxxxx
-注意：下载代码不需密码，上传才需要。
+注意：下载代码不需米麻，上传才需要。
 
 
 SVN的访问方法是：
