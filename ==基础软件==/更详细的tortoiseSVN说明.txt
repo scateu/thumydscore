@@ -1,0 +1,76 @@
+Windows下svn客户端TortoiseSVN的安装和操作
+2006-12-15 2:28 +0800
+
+完成了svn服务器的安装配置，怎么使用svn呢？在Windows下，最常用的svn客户端是TortoiseSVN，有时简称为TSVN。
+TortoiseSVN安装
+
+可以从http://tortoisesvn.tigris.org/下载最新版，目前最新版是TortoiseSVN-1.5.6.14908。
+
+下载后，安装。重启机器，使目录图标生效。
+
+在资源管理器中，鼠标右键点击任意位置，右键菜单中出现“SVN Checkout”,即为安装成功。
+svn操作流程
+
+开发人员使用svn进行开发的一般流程是：
+checkout（检出）项目
+——> 更新文件或目录 ——> update
+——> 修改文件或目录 —— commit(提交)变更
+——> 增加文件或目录 ——> add(增加) 文件或目录——> commit(提交)
+——> 删除文件或目录 ——> commit(提交)上一级目录
+
+其中，checkout只进行一次，update、commit、add操作根据需要会经常使用。
+checkout(检出)操作
+
+在资源管理器中，鼠标右键点击任意位置，在菜单中选择”SVN Checkout”。
+
+出现对话框，在”URL of repository:”中输入svn串，格式是”协议://ip:port/版本库/项目/目录“。根据实际情况输入，例如http://code.google.com/p/google-web-toolkit/source。如有疑问，向svn服务器管理员询问。
+
+在“checkout directory”中输入本地存放代码的目录，请选择空目录或新目录。svn会清空该目录下的一切文件。输入完毕，点击”ok”按钮。
+
+如果需要，会提示输入用户名和密码。选上”Save authentication”后，以后可以自动登录，不必重输密码。
+
+checkout…有时候时间会很长。结束，点”ok”。
+update(更新)操作
+
+在资源管理器中，选择本地目录或文件，鼠标右键菜单选择”SVN Update”。会提示有无文件需要更新，点”ok”完成。
+commit(提交)操作
+
+把本地目录中变化了的文件或目录提交到版本库中，用commit操作。增加新文件或目录，要先用add，再commit。删除文件或目录，commit上一级目录。
+
+在资源管理器中，选择本地目录或文件，鼠标右键菜单选择”SVN Commit”。
+
+显示分上下2个框的界面。在上框输入说明文字，建议写版本号或变更原因，以便将来查找。下框列出提交的内容。没有可提交的内容，下框中会显示一段说明文字。点“ok”。
+
+提交结束，显示结果。点“ok”。
+解决代码冲突
+
+如果commit时出现“You have to update your work copy first.”红色警告，说明版本库中的此文件已经被其他人修改了。请先点“ok”按钮退出。执行update,然后再commit。
+
+如果修改与update得到的代码不冲突，则自动合并。如果冲突（比如对同一行代码进行了修改），则出现”One or more files are in a conflicted state.“红色警告，并产生几个文件记录冲突。一般情况下，我们不要直接编辑冲突文件。而按照以下操作手工解决冲突。
+
+在资源管理器中，选择commit时冲突的那个文件，鼠标右键菜单选择”Edit conficts”。
+
+出现界面，分为”Theirs”、”Mine”和”Merged”3部分，表示”别人修改的内容”、 ”我修改的内容”和”合并后的结果”3部分。我们是要将”别人修改的内容”和”我修改的内容”有取舍地合并起来，形成”合并后的结果”。
+
+合并一般分为4种情况：
+
+    * 保留”我的修改”,舍弃”别人的修改”。鼠标右键点击Mine框的相应行，点击”Use this text block”。
+    * 舍弃”我的修改”,保留”别人的修改”。鼠标右键点击Theirs框的相应行，点击”Use this text block”。
+    * 同时保留”我的修改”和”别人的修改”，并将”我的修改” 放在前面。鼠标右键点击Mine框的相应行，点击”Use text block from mine before theirs”。
+    * 同时保留”我的修改”和”别人的修改”，并将”别人的修改”放在前面。鼠标右键点击Mine框的相应行，点击”Use text block from theirs before mine”。
+
+合并完成，Ctrl+S存盘，退出。
+
+然后，在资源管理器中，选择冲突文件，鼠标右键菜单选择”Resolved”,标记冲突已解决。系统会自动删除因冲突而新建的文件。此时，就可以继续进行commit操作了。
+add(增加)操作
+
+增加新文件或目录，要先用add，再commit。
+
+在资源管理器中，选择新增的目录或文件，鼠标右键菜单选择”Add”。
+
+提示增加的文件。点“ok”继续。结束点“ok”。
+删除操作
+
+删除文件或目录，commit上一级目录。
+
+本文来自http://jijian91.com  原文http://jijian91.com/blog20061215/tortoisesvn.html
