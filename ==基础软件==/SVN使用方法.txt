@@ -1,0 +1,20 @@
+xxxxxxx@gmail.com
+蜜马是xxxxxxxxx
+
+SVN账号是
+xxxxxx
+蜜蚂是xxxxxxxx
+注意：下载代码不需密码，上传才需要。
+
+
+SVN的访问方法是：
+1 安装tortoiseSVN
+2 随便新建一个文件夹
+3 进入该文件夹，在空白处右键，选择"SVNCheckout"
+4 在弹出的对话框内输入 https://thumydscore.googlecode.com/svn/trunk
+5 此时，会从服务器上下载所有的代码
+6 更改了代码文件之后，右键该文件，点commit即可提交代码至服务器，此时需要输入SVN账号。
+7 新建了文件或文件夹后，需要在该项目上右键add 后才可被提交至服务器。
+
+训练任务：
+新建一个文本文件，写入一些信息并提交。
