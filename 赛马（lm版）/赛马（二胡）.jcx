@@ -1,0 +1,58 @@
+%MUSE2
+T: 赛马
+M: 2/4
+L: 1/4
+K: C
+V: 1 style=jianpu
+[V: 1]
+%%jpwedgeyshift -10
+"空6小节"@@|@@|@@|@@|@@|@@|(!ATT!!@dd$f'MAESTRO'$s'40'$in$bn$unf!A3/2E//G//)|(!ATT!A>E//G//)|(!ATT!A>E//G//)|(!ATT!A>E//G//)|A//G//E//G//A//G//E//G//|A//G//E//G//A//G//E//G//|
+!@dd$f'MAESTRO'$s'40'$in$bn$unf!A/{G}A/A/{G}A/|A/{G}A/A/{G}A/|(!UPBOW!A,/E/)C/A,/|(E/A/)G/E/|(<D//E//D//C//D//E//D//C//|D//E//D//C//D//E//D//C// <)|(A,/E/)C/A,/|(E/A/)G/E/|D//E//D//C//D//E//D//C//|D//E//D//C//D//E//D//C//|
+(DD/A,//C//)|(DD/A,//C//)|(DD/A,//C//)|(DD/A,//C//)|(<D//E//D//C//D//E//D//C//|D//E//D//C//D//E//D//C// <)|D/{C}D/D/{C}D/|D/{C}D/D/{C}D/|
+%%31小节
+
+A,A|GE|DG|EC|!@dd$f'MAESTRO'$s'40'$in$bn$unf!A,A|GE|DG|EC|
+(!@dd$f'MAESTRO'$s'40'$in$bn$unf!A,3/2C//D//)|(A,>C//D//)|(A,>C//D//)|(A,>C//D//)|(<A,//D//C//D//A,//D//C//D//|A,//D//C//D//A,//D//C//D// <)|A,A,/A,/|A,z|
+%%47小节
+EA/>c/|G>E|G/A/c|A2|EA/>c/|G>E|(D/E/)A/G/|E2|GA/>c/|C>A,|D/E/A/G/|!@dd@y'-10'$f'宋体'$s'15'$in$bn$un轻!E/z/E/D/|(<C/D/E/G/ <)|AA,|D/>E/C|A,2|
+%%63小节
+!@dd$f'Maestro'$s'40'$in$bn$un\080!E/E//E//A/c//c//|G/G//G//G/E//E//|G/A//A//c/c//c//|A/A//A//A/A//A//|E/E//E//A/c//c//|G/G//G//G/E//E//|D/E//E//A/G//G//|E/E//E//E/E//E//E/E//E//|G/G//G//A/c//c//|C/C//C//C/A,//A,//|D/E//E//A/G//G//|E/E//G//E/D//D//|C//A,//C//D//E//D//E//G//|!@dd$f'Maestro'$s'40'$in$bn$unf!A//G//A//c//G//A//G//E//|D//E//D//C//D//C//A,//C//|A,2|
+"大击弓至93小节"@@|@@|@@|@@|@@|@@|@@|@@|@@|@@|@@|@@|@@|@@|@@|
+%%94小节
+zz/E//G//|(AA/)E//G//|(A,A,/)E//G//|(AA/)E//G//|(A,A,/)C//D//|
+!@dd$f'Maestro'$s'40'$in$bn$unp!E//D//E//G//A//c//A//G//|E//D//E//G//A//c//A//G//|E//G//E//D//C/E/|(A,A,/)C//D//|!@dd$f'Maestro'$s'40'$in$bn$unf!E//D//E//G//A//c//A//G//|E//D//E//G//A//c//A//G//|E//G//E//D//C/E/|(A,A,/)E//A//|
+c/A/A/e/|c/A/A/E/|c/A/A/e/|c/A/A/E/|
+C//C//A,//C//D//D//C//D//|E//E//D//E//G//G//E//G//|
+%%113小节
+!ATT!A//A//A,//A,//C//C//D//D//|E//E//D//D//C//C//A,//A,//"双音至140小节"|E/A,/D/A,/|C/A,/D/A/|
+!ATT!G/A,/C/D/|E/D/E/G/|A/E/G/E/|A/E/B/E/|c/E/G/A/|B/A/G/E/|c/E/A/E/|B/E/c/E/|"四"d/"内\n二"D/E/F/|G/F/E/D/|A/E/B/E/|c/E/d/E|e/E/A/E/|B/E/C/E/|
+d/E/c/E/B/E/A/E/|e/E/A/E/B/E/c/E/|
+d/E/c/E/B/E/A/E/|e/E/A/E/B/E/c/E/|d/E/e/E/f/E/g/E/|:
+%%141小节
+[E/A,/]A/^G//A//G//=G//|^F//G//^G//A//_B//A//G//=G//::[E/A,/]_B/A//B//A//^G//|G//^G//A//_B//=B//_B//A//G//::
+[E/A,/]B/_B//=B//_B//A//|^G//A//_B//=B//c//B//_B//A//::[E/A,/]c/B//c//B//_B//|A//_B//=B//c//^c//=c//B//_B//:|
+%%149小节
+[E/A,/]d/^c//d//c//=c//|[E/A,/]d/^c//d//c//=c//|[E/A,/]_e/d//e//d//^c//|[E/A,/]_e/d//e//d//^c//|
+%%153小节
+e//_e//d//^c//=e//_e//d//c//|e//_e//d//^c//=e//_e//d//c//|
+e//_e//d//^c//f//=e//_e//d//|^f//=f//e//_e//g//#f//=f//e//|
+%%157小节
+A,//A,//C//A,//_E//D//^C//=C//|_B//A//^G//=G//_E//D//_D//C//|^C//D//D//C//E//_E//D//C//|B//_B//A//^G//E//_E//D//^C//|
+D//_E//E//D//=E//_E//E//D//|c//B//_B//A//F//E//_E//D//|
+%%163
+_E//=E//E//_E//F//=E//E//_E//|^c//=c//B//_B//^F//=F//E//_E//|
+E//F//F//E//^F//=F//F//E//|d//^c//=c//B//G//^F//=F//E|
+%%167
+F//^F//F//=F// G//^F//F//=F//|_e//d//^c//=c//^G//=G//^F//=F//|
+^F//G//G//F//^G//=G//G//F//|
+%%170
+G//_A//A//G//=A//^G//G//=G//|^G//A//A//G//_B//A//A//G//|A//_B//B//A//c//B//B//A//|_A//G//F//E//c//B//_B//=A//|
+_A//G//F//E//c//B//_B//=A//|_A//G//F//E//c//B//_B//=A//|_A//G//F//E//c//B//_B//=A//|
+%%177小节
+a//^g//=g//f//e//_e//d//^c//|a//^g//=g//f//e//_e//d//^c//|a//^g//=g//^f//a//^g//=g//f//|a//^g//=g//^f//a//^g//=g//f//|a//^g//=g//^f//a//^g//=g//f//|a//^g//=g//^f//a//^g//=g//f//|
+([A2D2]|([A2D2])|([A2D2])|[A2D2])|
+%%187小节
+C//C//A,//C//D//D//C//D//|E//E//D//E//G//E//G//A//|!sanpie!c/!sanpie!A/!sanpie!A/!sanpie!e/|!sanpie!c/!sanpie!A/!sanpie!A/!sanpie!E/|!sanpie!c/!sanpie!A/!sanpie!A/!sanpie!e/|!sanpie!c/!sanpie!A/!sanpie!A/!sanpie!E/|
+C//C//A,//C//D//D//C//D//|E//E//D//E//G//G//E//G//|G//G//E//G//A//A//G//A//|c//c//A//c//d//d//c//d//|e//d//c//d//e//d//c//d//|e//d//c//d//e//d//c//d//|e//d//c//d//e//d//c//d//|e//d//c//d//e//d//c//g//|
+(a2|(a2)|(a2)|a2)|!HOLD![e2b2]|!HOLD![G2C2]|!HOLD![G2C2]|!HOLD![G2C2]|!ATT!A!HOLD!z|
+!ATT!A!ATT!A|(!HOLD!A,2|(A,2)|A,)z|]
